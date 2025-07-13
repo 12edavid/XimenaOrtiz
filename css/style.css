@@ -40,9 +40,9 @@ body {
 
 }
 .titulo {
-  margin-bottom: 410px;
+  margin-bottom: 500px;
   font-family: 'Indie Flower', cursive; /* Fuente manuscrita */
-  font-size: 12px; /* Tamaño de letra reducido */
+  font-size: 20px; /* Tamaño de letra reducido */
   color: white;
   position: absolute;
   font-weight: normal; /* Más suave para un estilo manuscrito */
